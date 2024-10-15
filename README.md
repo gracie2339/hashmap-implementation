@@ -1,0 +1,1 @@
+This is an implementation of a hash map, using a separate chaining method to address collisions.
